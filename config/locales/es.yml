@@ -1,5 +1,10 @@
 ---
 es:
+  activerecord:
+    models:
+      category:
+        one: Categoría
+        others: Categorías
   categories:
     form:
       description: Descripción
@@ -8,9 +13,7 @@ es:
       common:
         back: Atrás
     new_category: Nueva Categoría
-  activerecord:
-    models:
-      category: 
-        one: Categoría
-        others: Categorías
   hello: Hola Mundo
+  task:
+    errors:
+      invalid_due_date: La fecha no puede estar en el pasado
