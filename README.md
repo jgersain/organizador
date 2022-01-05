@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# organizador
-SImple organizador de tareas usando ruby on rails
-=======
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> Initial commit
